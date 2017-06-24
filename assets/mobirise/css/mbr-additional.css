@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+
+#content5-36 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #777777;
+}
+#content5-36 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-36 .mbr-article {
+  color: #fff;
+}
+#content5-36 .mbr-article P {
+  color: #ffffff;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+}
+#content5-36 .mbr-header .mbr-header__text SPAN {
+  color: #ffffff;
+}
+#content5-39 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-39 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-39 .mbr-article {
+  color: #fff;
+}
+#content5-39 .mbr-article P {
+  text-align: left;
+}
+#content5-39 .mbr-article BLOCKQUOTE {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#content5-39 .mbr-header .mbr-header__text SPAN {
+  text-align: center;
+}
